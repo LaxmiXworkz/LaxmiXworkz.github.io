@@ -1,0 +1,22 @@
+html ->HYPER TEXT MARKUP LANGUAGE
+html is used to develop web page.
+html is a markup language.
+html contains tags<></>
+Tag is a pre defined key word which is present inside the web browse.
+html is case insensitive.
+html is not a programming language instead it is design ,markup language.
+To implement html we dont require any external software(i .e Compiler).
+
+
+Structure of HTML
+<!doctype html> version of html
+<html>
+<head>
+<title>Title for web page</title>
+<style>CSS</style>
+<script>JAVA Script>
+</head>
+<body>Used to Display resourse/content of html</body>
+</html>
+
+
